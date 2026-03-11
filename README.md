@@ -1,6 +1,8 @@
 # Spotify Top 50 – Globális Zenei Trendanalízis és Népszerűség Predikció
-- Készítette:
-Kovács Krisztián  
+**Készítette:**
+
+Kovács Krisztián
+
 Neptun Kód: **HRHA5F**
 
 Mérnök Informatika
@@ -275,6 +277,7 @@ deep learning modellekkel
 
 
 több ország adatainak integrálásával
+
 
 
 
