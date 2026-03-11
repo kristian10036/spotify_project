@@ -6,7 +6,9 @@
 
 - Szak: **Mérnök Informatika**
 
-- Kurzus: **Mesterséges Inteligencia**
+- Kurzus: **Mesterséges Intelligencia**
+
+  
 
 
 Ez a projekt a Spotify Top 50 dalok zenei jellemzőit elemzi és gépi tanulási modellekkel megpróbálja előre jelezni a dalok népszerűségét.
@@ -276,6 +278,7 @@ deep learning modellekkel
 
 
 több ország adatainak integrálásával
+
 
 
 
