@@ -1,5 +1,9 @@
 # Spotify Top 50 – Globális Zenei Trendanalízis és Népszerűség Predikció
-
+- Készítette:
+Kovács Krisztián  
+Neptun Kód: *HRHA5F*
+Mérnök Informatika
+Mesterséges Inteligencia kurzus
 Ez a projekt a Spotify Top 50 dalok zenei jellemzőit elemzi és gépi tanulási modellekkel megpróbálja előre jelezni a dalok népszerűségét.
 
 Az elemzés Python és Jupyter Notebook segítségével készült, és a **CRISP-DM adatbányászati módszertant** követi.
@@ -267,4 +271,5 @@ deep learning modellekkel
 
 
 több ország adatainak integrálásával
+
 
