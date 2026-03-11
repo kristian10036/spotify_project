@@ -13,7 +13,7 @@
 
 Ez a projekt a Spotify Top 50 dalok zenei jellemzőit elemzi és gépi tanulási modellekkel megpróbálja előre jelezni a dalok népszerűségét.
 
-Az elemzés Python és Jupyter Notebook segítségével készült, és a **CRISP-DM adatbányászati módszertant** követi.
+Az elemzés Python és Jupyter Notebook segítségével készült, és a **CRISP-DM módszertant** követi.
 
 A notebook:
 
@@ -24,9 +24,8 @@ A notebook:
 
 ---
 
-# Módszertani keretrendszer (CRISP-DM)
+# Módszertani keretrendszer: **CRISP-DM**
 
-A projekt az ipari adatbányászatban használt **CRISP-DM** modell szerint épül fel.
 
 1. Business understanding – projektcél meghatározása  
 2. Data understanding – adatok feltérképezése  
@@ -59,10 +58,15 @@ A projekt az alábbi Python könyvtárakat használja:
 
 spotify_analizis/
 │
+
 ├── spotify_analizis.ipynb
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── .gitignore
+
 └── .gitattributes
 
 
@@ -75,7 +79,7 @@ A projekt a Spotify Top 50 dalok zenei jellemzőit tartalmazó adathalmazt haszn
 Dataset:
 
 
-miquelneck/worlds-spotify-top-50-playlist-musicality-data
+**miquelneck/worlds-spotify-top-50-playlist-musicality-data**
 
 
 A dataset többek között az alábbi jellemzőket tartalmazza:
@@ -275,7 +279,6 @@ időbeli trendmodellezéssel
 előadói ismertségi mutatókkal
 
 deep learning modellekkel
-
 
 több ország adatainak integrálásával
 
