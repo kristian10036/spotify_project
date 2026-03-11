@@ -121,8 +121,8 @@ python3 --version
 
 Repository klónozása:
 
-git clone <repository_url>
-cd spotify-analizis
+git clone https://github.com/kristian10036/spotify_project.git
+cd spotify_project
 
 Függőségek telepítése:
 
@@ -150,11 +150,18 @@ pip install -r requirements.txt
 Ha nincs requirements fájl:
 
 pip install numpy pandas matplotlib seaborn scikit-learn scipy jupyter kagglehub
-Notebook futtatása
+
+Notebook futtatása:
 
 Indítsd el a Jupyter Notebookot:
-
+virtuális környezetben:
+bash
 jupyter notebook
+
+globális környezetben:
+bash
+python -m notebook
+
 
 Ezután nyisd meg:
 
@@ -263,5 +270,6 @@ időbeli trendmodellezéssel
 előadói ismertségi mutatókkal
 
 deep learning modellekkel
+
 
 több ország adatainak integrálásával
