@@ -129,11 +129,11 @@ Függőségek telepítése:
 Virtuális környezet használata (ajánlott)
 
 Windows:
-
+(CMD)
 python -m venv venv
 venv\Scripts\activate
-pip install --upgrade pip
-pip install -r requirements.txt
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
 
 Linux / macOS:
 
@@ -154,14 +154,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn scipy jupyter kagglehub
 Notebook futtatása:
 
 Indítsd el a Jupyter Notebookot:
-virtuális környezetben:
-bash
-jupyter notebook
 
-globális környezetben:
-bash
 python -m notebook
-
 
 Ezután nyisd meg:
 
@@ -273,3 +267,4 @@ deep learning modellekkel
 
 
 több ország adatainak integrálásával
+
